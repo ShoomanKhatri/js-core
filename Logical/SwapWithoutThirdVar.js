@@ -13,6 +13,6 @@ console.log("a:"+a+" b:", b);
 
 // output
 Before swap:
-a:5 b: 10
+/* a:5 b: 10
 After swap:
-a:10 b: 5
+a:10 b: 5 */
