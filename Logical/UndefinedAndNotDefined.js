@@ -7,4 +7,5 @@ console.log(a);
 console.log(b);  //not defined
 
 //output
+//Error
 //not defined
